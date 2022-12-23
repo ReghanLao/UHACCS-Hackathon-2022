@@ -1,0 +1,130 @@
+{
+    "ingredients": [
+        {
+            "Name": "Garlic",
+            "url": "https://i.imgur.com/9sOK3fG.png"
+            },
+        {
+            "Name": "Egg",
+            "url": "https://i.imgur.com/wpOXtDC.png"
+            },
+        {
+            "Name": "Onion",
+            "url": "https://i.imgur.com/DAE8JgI.png"
+            },
+        {
+            "Name": "Cheese",
+            "url": "https://i.imgur.com/Ln2pL8Y.png"
+            },
+        {
+            "Name": "Sriracha_Sauce",
+            "url": "https://i.imgur.com/SeUv9gk.png"
+            },
+        {
+            "Name": "Flour",
+            "url": "https://i.imgur.com/zj4Cmcd.png"
+            },
+        {
+            "Name": "Bread_Crumbs",
+            "url": "https://i.imgur.com/SqDS5Le.png"
+            }, 
+        {
+            "Name": "Salt_and_Pepper",
+            "url": "https://i.imgur.com/HvHwoxt.png"
+            },
+        {
+            "Name": "Rice",
+            "url": "https://i.imgur.com/8XjbNBf.png"
+            },
+        {
+            "Name": "Chicken_Breast",
+            "url": "https://i.imgur.com/fT5x2dJ.png"
+            },
+        {
+            "Name": "Olive_Oil",
+            "url": "https://i.imgur.com/T9W4hZF.png"
+            },
+        {
+            "Name": "Chilies",
+            "url": "https://i.imgur.com/kLWUNPW.png"
+            },
+        {
+            "Name": "Potato",
+            "url": "https://i.imgur.com/VyK3xSh.png"
+            },
+        {
+            "Name": "Tomato",
+            "url": "https://i.imgur.com/K2Qdcie.png"
+            }
+        
+    ],
+   
+    "recipes": [
+        {
+        "Name": "Fried Eggs",
+        "Description": "Fried Eggs are awesome.",
+        "Ingredients": ["Egg", "Olive_Oil", "Salt_and_Pepper"],
+            "Steps": [
+                "Step 1: Preheat pan on high heat.",
+                "Step 2: Spread 1 tablespoon of oil.",
+                "Step 3: Crack egg into the pan.",
+                "Step 4: Spoon the oil over the egg until whites are set.",
+                "Step 5: Take it out of the pan. Apply salt and pepper then serve."
+            ],
+            "url": "https://i.imgur.com/0iAY2Q7.png"
+        },
+        {
+            "Name": "Spicy Chicken Fried Rice",
+            "Description": "A good fried rice recipe that is easy to cook and usually whips up pretty quickly. It's good to have leftover rice around just so you can make this particular dish.",
+            "Ingredients": ["Egg", "Rice", "Olive_Oil", "Chilies", "Onion", "Chicken_Breast", "Salt_and_Pepper", "Sriracha_Sauce"],
+            "Steps": [
+                "Step 1: Cook the eggs. Heat 1 teaspoon oil in a large pan or wok to medium-high heat. Add eggs and cook, stirring, until the eggs set and are nice   and fluffy, about 2 minutes. Don't overcook the eggs. Transfer the eggs to a bowl and set aside.", 
+                "Step 2: Return pan to heat. Add an additional 1 tablespoon oil to the pan and heat until melted. Add onion and garlic, and season with a generous pinch of salt and pepper. Saute for about 5 minutes or until the onions are soft.", 
+                "Step 3: Increase heat to high, add in the remaining 1 1/2 tablespoons of oil, and stir until melted. Immediately add the rice and stir until combined.", 
+                "Step 4: Add the sriracha and continue stirring for an additional 3 minutes to fry the rice. Then add in the chicken and eggs, and stir to combine.",
+                "Step 5: Remove from heat and serve."
+            ],
+            "url": "https://www.gimmesomeoven.com/wp-content/uploads/2014/08/Spicy-Chicken-Fried-Rice-3.jpg"
+        },
+        {
+            "Name": "Chicken Katsu",
+            "Description": "Chicken katsu is Japanese-style fried chicken. This is my family recipe and can also be used to make tonkatsu by using pork cutlets instead of chicken. Served with white rice.",
+            "Ingredients": ["Salt_and_Pepper", "Egg", "Rice", "Olive_Oil", "Chicken_Breast", "Bread_Crumbs", "Flour"],
+            "Steps": ["Step 1: Season chicken breasts on both sides with salt and pepper. Place flour, beaten egg, and panko crumbs into separate shallow dishes. ",
+                "Step 2: Coat chicken breasts in flour, shaking off any excess; dip into egg, and then press into panko crumbs until well coated on both sides.", 
+                "Step 3: Heat oil in a large skillet over medium-high heat. Place chicken in the hot oil, and fry until golden brown, 3 or 4 minutes per side. Transfer to a paper towel-lined plate to drain.", 
+                "Step 3: Serve with white rice." 
+            ],
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Faac4f130c170a89298ce40417808ac4f%2F1664068535IMG_2438.jpeg&q=60&c=sc&orient=true&poi=auto&h=512"
+        },
+        {
+            "Name": "Hashbrowns",
+            "Description": "Hash browns are one of those brilliant recipes that taste amazing, look impressive and take very little effort. A welcome addition to any breakfast or lunch.",
+            "Ingredients": ["Salt_and_Pepper", "Onion", "Potato", "Olive_Oil"],
+            "Steps": [
+                "Step 1: Coarsely grate the potatoes and onion into a clean tea towel and then squeeze out the excess liquid by twisting the towel. Place the mix in a large bowl.", 
+                "Step 2: Add a good couple of pinches of salt and freshly ground black pepper (you need to salt the mixture well otherwise the hash browns can be quite bland). Mix the ingredients well.", 
+                "Step 3: Heat a good glug of oil in a heavy based frying pan and when the oil is hot (but not smoking), add spoonfuls of the potato mixture into the pan and flatten into patties about 1cm/½in thick. Flip over once browned and crispy - about 2-3 minutes each side.", 
+                "Step 4: Serve hot as a breakfast or supper side dish. Especially good with bacon and eggs."
+            ],
+            "url": "https://www.spendwithpennies.com/wp-content/uploads/2021/12/U-Homemade-Shredded-Hashbrowns-2-SpendWithPennies-4.jpeg"
+        },
+        {
+            "Name": "Mashed Potatoes",
+            "Description": "A simple to make dish that everyone is sure to enjoy. It's simple to make and pairs well with any main course or by itself",
+            "Ingredients": ["Potato", "Cheese", "Onion", "Egg", "Salt_and_Pepper", "Olive_Oil"],
+            "Steps": ["Step 1: Place potatoes in a large saucepan; cover with water. Cover and bring to a boil. Cook for 20-25 minutes or until very tender; drain well.", 
+                "Step 2: In a bowl, mash potatoes. Add cheddar cheese, onion, egg, salt and pepper; beat until fluffy. Transfer to a 2-qt. baking dish that is greased with oil. Cover and bake at 350° for 40-45 minutes or until heated through. Sprinkle with additional cheese if desired.", 
+                "Step 3: Serve on the side or as a meal."
+            ],
+            "url": "https://i.imgur.com/2eGapqy.jpg"
+        }
+        
+    
+    
+    ]
+    
+    
+    
+    
+}
