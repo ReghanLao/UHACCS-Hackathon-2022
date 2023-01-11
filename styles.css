@@ -7,23 +7,27 @@ body {
     color: white;
 }
 
-.body {
+.frame {
     width: 50%;
     margin: 0 auto;
+    background-color: rgb(109,192,102);
+    padding: 80px 50px;
 }
 
 #picture {
     display: inline-block;
     height: 150px;
     width: 150px;
-    border: 2px solid black;
+    border: 1px solid black;
     top: 0;
     left: 0;
+    box-shadow: 5px 5px 0 rgba(0,0,0, .5);
+    margin: 10px 10px
 }
 
 #top {
     display: inline-block;
-    height:150px;
+    height: 150px;
     width: 500px;
 }
 
@@ -57,7 +61,6 @@ body {
     border: 2px;
     display: flex;
     flex-direction: column;
-
 }
 
 .cbox {
