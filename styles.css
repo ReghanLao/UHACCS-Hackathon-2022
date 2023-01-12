@@ -3,14 +3,16 @@ body {
     background-color: rgb(205, 199, 199);
     color: white;
     font-family: Montserrat;
+    font-size: 18px;
 }
 
-.frame {
+.frame {      
     width: 50%;
     margin: 0 auto;
     background-color: rgb(109,192,102);
     padding: 80px 50px;
     box-shadow: 0 5px 0 rgba(0,0,0, .5);
+    word-wrap: break-word
 }
 
 #picture {
@@ -116,4 +118,10 @@ body {
     opacity: .3;
 }
 
+.dish-name {
+    font-weight: bold;
+    font-size: 76px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
 
